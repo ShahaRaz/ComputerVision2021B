@@ -65,7 +65,7 @@ CV Course's projects, assignments &amp; notes
 
 
 
-### Feel Free To visit Other Repositories to see some Complete Projects :D
+### Feel Free To visit Other Repositories to see more projects :)
 
 [1. Machine-Learning - House Prices Predictions 2021A Python, Numpy](https://github.com/ShahaRaz/ML_House_Prices_Preds2021A)
 
